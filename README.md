@@ -13,11 +13,8 @@ A responsive business landing page built using HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
-## Preview
-(Add screenshots)
-
 ## 🌐 Live Demo
-(Will add GitHub Pages link here)
+https://rhema-m.github.io/IronEdge-landing_page/
 
 ## 📂 Project Structure
 - index.html
